@@ -1,0 +1,23 @@
+<div id="contactFormHolder">
+    <form id="contactUs" method="post" action="contact.php" role="form" name="contactForm">
+
+        <div class="sectionHead" id="contactHead">Get in touch</div>
+
+        <label class="inputIcon" id="nameIcon" for="fullName"></label>
+        <input  type="text" name="fullName" maxlength="50" placeholder="Full Name" id="fullName" required="required"><br>
+
+        <label class="inputIcon" id="emailIcon" for="email"></label>
+        <input  type="text" name="email" maxlength="80" placeholder="Email" id="email" required="required"><br>
+
+        <label class="inputIcon" id="telIcon" for="telephone"></label>
+        <input type="tel" name="telephone" placeholder="Phone Number" id="telephone"><br>
+
+        <label class="inputIcon" id="messageIcon" for="messageInput"></label>
+        <textarea  name="messageInput" maxlength="1000" placeholder="Message" id="messageInput" required="required"></textarea><br>
+
+        <button type="submit" id="submitBtn" onclick="return  checkForm()"><i class="fa fa-paper-plane"></i>Send</button>
+    </form>
+    <div id="successMessage"></div>
+</div>
+<script src="js/contact.js"></script>
+

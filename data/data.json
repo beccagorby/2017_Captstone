@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "linkName": "Home",
+      "linkClass": "btn",
+      "linkId": "home"
+    },
+    {
+      "linkName": "Our Story",
+      "linkClass": "btn",
+      "linkId": "story"
+    },
+    {
+      "linkName": "",
+      "linkClass": "logo",
+      "linkId": "logo"
+    },
+    {
+      "linkName": "Tables",
+      "linkClass": "btn",
+      "linkId": "tables"
+    },
+    {
+      "linkName": "Contact Us",
+      "linkClass": "btn",
+      "linkId": "contact"
+    },
+    {
+      "linkName": "",
+      "linkClass": "footer",
+      "linkId": "footer"
+    }
+  ],
+  "landingPage": [
+    {
+      "snippetText": "Whether you want a log shuffleboard for your rustic mountain cabin, a modern shuffleboard for your trendy town home or a classical shuffleboard for your Victorian home, we can work with you to develop a shuffleboard to match your wishes and satisfy your imagination.",
+      "snippetId": "snippet"
+    }
+  ],
+  "ourStoryHeader": [
+    {
+      "header": "Our Story",
+      "pId": "storyHeader"
+    }
+  ],
+  "ourStory": [
+    {
+      "paragraph": "Heirloom Shuffleboard rose out of two passions Fritzi, our designer and master craftsman, has - playing shuffleboard and wood working.",
+      "pId": "p1",
+      "fa": "fa fa-cogs fa-2x"
+    },
+    {
+      "paragraph": "As a little girl, Fritzi followed her father, a master woodworker, around his wood shop, learning his art. Fritzi's father owned a woodworking business and sold cabinets and furniture. As Fritzi literally followed his footsteps around the shop, she developed his skills and her own love for creating beauty out of rough, splintered wood.",
+      "pId": "p2",
+      "fa": "fa fa-wrench fa-2x"
+    },
+    {
+      "paragraph": "In 1984, Fritzi began playing shuffleboard and became one of the top female shuffleboard players in the United States by 1987. She organized and ran one of the nation's largest single-day doubles shuffleboard tournaments for a few years.",
+      "pId": "p3",
+      "fa": "fa fa-trophy fa-2x"
+    },
+    {
+      "paragraph": "Fritzi began combining her love for playing shuffleboard and her appreciation of woodworking by first refinishing the playing surfaces of used shuffleboards. She then began completely restoring antique shuffleboards in 1992, specializing in shuffleboards made in the 1940s. Fritzi knew that if she could restore broken, moldy and water-damaged antique shuffleboards to their original grandeur, she could surely develop a line of new ones.",
+      "pId": "p4",
+      "fa": "fa fa-heart fa-2x"
+    },
+    {
+      "paragraph": "Fritzi began crafting The Legacy model, Heirloom Shuffleboards' first line of high-quality, old-world style shuffleboards, patterned after the shuffleboards from the 1940s that Fritzi had become an expert at restoring. That was in 2004. Since then, Heirloom Shuffleboards have been placed across the United States in Nantucket, Long Island, Texas and California and even internationally.",
+      "pId": "p5",
+      "fa": "fa fa-flag fa-2x"
+    },
+    {
+      "paragraph": "That's our story. As we look to our future, we anticipate designing new models and developing custom shuffleboards for customers with unique requests, and continue to provide you with one of the highest quality shuffleboards on the market. We want to help you get the most beautiful shuffleboard that will fit perfectly into your home and your family and will be a part of your family for decades to come.",
+      "pId": "p6",
+      "fa": "fa fa-newspaper-o fa-2x"
+    }
+  ],
+  "storyImage": [
+    {
+      "url": "assets/fritzi.jpg",
+      "pId": "fritziImg"
+    }
+  ]
+}

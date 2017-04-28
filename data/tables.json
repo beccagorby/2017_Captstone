@@ -1,0 +1,93 @@
+{
+  "tableModels": [
+    {
+      "modelName": "Legacy",
+      "modelDescription": ""
+    },
+    {
+      "modelName": "Live Edge",
+      "modelDescription": ""
+    },
+    {
+      "modelName": "Big Sky",
+      "modelDescription": ""
+    },
+    {
+      "modelName": "Lancaster",
+      "modelDescription": ""
+    },
+    {
+      "modelName": "Manchester",
+      "modelDescription": ""
+    }
+  ],
+
+  "tables": [
+    {
+      "tableModel": "Big Sky",
+      "tableImage": "assets/bigSky1.jpg",
+      "tableDescription": "The undeniably striking Heirloom Big Sky Live Edge Shuffleboard Table sets the precedent for contemporary shuffleboard design. Featuring a warm and rustic live edge construction made with premium, hand-selected walnut slabs, this handsome table is an absolute essential for upscale lodges, woodsy game rooms and cozy cabins. It features massive side rails and ends, and weighs in at double the weight of comparably sized tables, helping it honor its maker's namesake. This gorgeous shuffleboard table will surely become a family heirloom. The Big Sky table is equally at home in any contemporary or rustic setting.",
+      "tableId": "bigSky1"
+    },
+    {
+      "tableModel": "Manchester",
+      "tableImage": "assets/reclaimedwormychestnut.jpg",
+      "tableDescription": "If you're looking for hand-crafted, old world style shuffleboard tables, you'll delight in the authenticity and opulence offered by the stately Heirloom Manchester Shuffleboard Table. This handsome, high-quality table draws inspiration from classic designs found in 18th century shuffleboard tables used by British royalty. It's dripping with rich accents, like turned legs and in-laid wooden diamond details, to be the focal point of your classic barroom, office or game room.",
+      "tableId": "manchester1"
+    },
+    {
+      "tableModel": "Legacy",
+      "tableImage": "assets/legacy1.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Big Sky",
+      "tableImage": "assets/T21-1.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Big Sky",
+      "tableImage": "assets/T21-1.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Big Sky",
+      "tableImage": "assets/T21-2.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Big Sky",
+      "tableImage": "assets/T25-2.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Live Edge",
+      "tableImage": "assets/T26-2.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Manchester",
+      "tableImage": "assets/Table11-7SCopy.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Legacy",
+      "tableImage": "assets/Table19-1.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    },
+    {
+      "tableModel": "Legacy",
+      "tableImage": "assets/Table22-1.jpg",
+      "tableDescription": "The Heirloom Legacy Shuffleboard Table was Heirloom's first, and now most popular, shuffleboard table. This is a Rock-Ola style shuffleboard table that was designed by Heirloom's founder to honor the classic design of old-fashioned tables and features a retro look that's handsome, hardy and high-class.",
+      "tableId": "legacy1"
+    }
+  ]
+}

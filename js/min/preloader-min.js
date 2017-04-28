@@ -1,0 +1,1 @@
+function timeoutOver(){timesUp=!0,turnOffPreloader()}function turnOffPreloader(){pageLoaded&&timesUp&&$(".preloader").animate({opacity:0},700).addClass("hide")}var pageLoaded=!1,timesUp=!1;$(document).ready(function(){setTimeout(timeoutOver,1e3)}),$(window).on("load",function(){pageLoaded=!0,turnOffPreloader()});
